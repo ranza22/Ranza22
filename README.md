@@ -3,7 +3,7 @@
 <p align="center">
 💻 Futuro Desenvolvedor  
 🚀 Aprendendo na prática  
-🔐 Explorando Cybersegurança  
+🔐 Explorando Front-end
 </p>
 
 ---
